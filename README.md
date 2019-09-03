@@ -15,6 +15,7 @@ This is mohammed jemal i made changes to the branch text file.
 in the words of abraham lincon:
 > Pardon my French
 
+To format code or text into its own distinct block, use triple backticks.
 Some basic Git commands are:
 ```
 git status
