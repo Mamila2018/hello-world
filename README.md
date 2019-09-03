@@ -8,3 +8,5 @@ This is mohammed jemal i made changes to the branch text file.
 ## The second largest heading
 ###### The smallest heading
 **This is bold text**
+*This text is italicized*
+~~This was mistaken text~~
