@@ -39,4 +39,6 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 using Emogi
 :EMOJICODE:
-:+1:
+
+:+1: 
+:shipit:
