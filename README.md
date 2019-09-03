@@ -14,3 +14,9 @@ This is mohammed jemal i made changes to the branch text file.
 ***All this text is important***
 in the words of abraham lincon:
 > Pardon my French
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
