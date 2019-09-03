@@ -1,6 +1,6 @@
-# hello-world
-This is my first git hub project. 
+# hello-world2
+This is my second git hub project. 
 
 hey, there
 
-This is mohammed jemal i made changes to the branch text file. 
+This is mohammed jemal i made another changes to the branch text file. 
